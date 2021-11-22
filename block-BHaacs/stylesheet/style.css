@@ -200,28 +200,28 @@ figure{
     
 }
 a[href $=".pdf"]{
-    background-image: url(../media/image/pdf.png);
+    background-image: url(../assets/pdf.png);
     background-repeat: no-repeat;
     width: 20%;
     height: 2.5rem;
    
 }
 a[href $=".doc"]{
-    background-image: url(../media/image/word.png);
+    background-image: url(../assets/word.png);
     background-repeat: no-repeat;
     width: 20%;
     height: 2.5rem;
    
 }
 a[href $=".png"]{
-    background-image: url(../media/image/image.png);
+    background-image: url(../assets/image.png);
     background-repeat: no-repeat;
     width: 20%;
     height: 2.5rem;
    
 }
 a[href $=".mp4"]{
-    background-image: url(../media/image/video.png);
+    background-image: url(../assets/video.png);
     background-repeat: no-repeat;
     width: 20%;
     height: 2.5rem;
